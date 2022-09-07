@@ -2,7 +2,7 @@
 Meus arquivos de configuração
 
 ## Prompt
-`curl -sS https://starship.rs/install.sh | sh`
+`curl -sS https://starship.rs/install.sh | sh`.
 To setup the prompt, put the file `starship.toml` into `~/.config`
 
 ## Shell
