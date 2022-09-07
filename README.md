@@ -8,7 +8,7 @@ To setup the prompt, put the file `starship.toml` into `~/.config`
 
 ## Shell
 Install ZSH:
-`sudo apt install zsh`
+`sudo apt install zsh`/br
 `sudo pacman -S zsh`
 Install zsh-syntax-highlighting
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
